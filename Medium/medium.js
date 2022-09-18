@@ -1,4 +1,4 @@
-// //medium challenge
+//medium challenge
 
 //initial prompt 
 const input=prompt ("What do you want to say?");
